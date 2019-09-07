@@ -2,8 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Z.W. Miller
-tagline:             A Moderately Okay Data Science Blog
+title:               Khawlah A. Alarfaj
+tagline:             A Science Blog
 url:                 http://Khawlah-Ahmed.github.io
 paginate:            2
 baseurl:             ""
@@ -17,9 +17,9 @@ sass:
 
 # About/contact
 author:
-  name:              Zach Miller
-  url:               https://twitter.com/zaglamir
-  email:             zach@thisismetis.com
+  name:              Khawlah Alarfaj
+  url:               https://twitter.com/Khawla_Alarfaj
+  email:             khawla.a515@gmail.com
 
 # Custom vars
 version:             2.0.0
